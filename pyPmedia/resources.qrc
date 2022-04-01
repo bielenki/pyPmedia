@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="plugins"/>
+  <qresource prefix="plugins/pyPmedia">
+    <file>fig1.png</file>
+    <file>logoDHB.png</file>
+    <file>fill.PNG</file>
+    <file>idw.png</file>
+    <file>thiessen.png</file>
+  </qresource>
+</RCC>
